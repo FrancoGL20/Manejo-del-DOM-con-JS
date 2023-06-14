@@ -9,7 +9,7 @@ const route = document.location.href
 bodyChildren[1].children[0].innerText = route
 
 
-// Otro
+// MODIFICANDO ESTILOS DESDE JAVASCRIPT
 
 // Ejemplo modificando la propiedad style de un elemento
 // ütil para elementos específicos
